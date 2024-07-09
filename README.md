@@ -29,8 +29,8 @@ The app offers four main image processing functionalities:
 
 ## How to Run
 
-1. Install the required packages: `pip install streamlit numpy opencv-python streamlit-image-coordinates`
-2. Run the app: `streamlit run app.py`
+1. Install the required packages: `pip install streamlit numpy opencv-python`
+2. Run the app: `streamlit run image_processing_app.py`
 
 ## Future Enhancements
 
